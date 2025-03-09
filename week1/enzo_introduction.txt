@@ -93,14 +93,14 @@ Complete the text file, feel free to add new lines:
 -------------------------------------------------------------------------
 Self Introduction (required)
 
-Name:
-Pronouns:
-Major/Intended Major:
-Year:
-Dream Career:
-Hobbies:
-Skills:
-Goals:
+Name: Enzo Chen
+Pronouns: He/Him
+Major/Intended Major: MCB/LSBE
+Year: Freshmam
+Dream Career: Wet-lab Researcher / Manager
+Hobbies: Cooking, playing random instruments, traveling, collecting vinyls
+Skills: Laboratory skills
+Goals: 
 Favorite Food:
 Favorite Programming Language:
 Paragraph introducing yourself:
