@@ -100,11 +100,13 @@ Year: Freshmam
 Dream Career: Wet-lab Researcher / Manager
 Hobbies: Cooking, playing random instruments, traveling, collecting vinyls
 Skills: Laboratory skills
-Goals: 
-Favorite Food:
-Favorite Programming Language:
-Paragraph introducing yourself:
-What do you hope to gain from PD?:
+Goals: Become a researcher
+Favorite Food: Sushi, Sukiyaki, Hayashi Rice
+Favorite Programming Language: Java
+Paragraph introducing yourself: Hello! I am Enzo Chen, a frehsman at UC Berkeley planning to major in molecular cell biology. 
+Although I arrived a bit late into the course, I hope to get acquainted with everyone here and work with everyone! I love to cook, listen to music, hike, and travel. So if anyone else is interested in having a potluck anytime soon, hit me up!
+What do you hope to gain from PD?: I hope to practice some elements of the visual aspects of code, while hopefully gaining new
+skills I can apply in a variety of work environments. 
 
 -------------------------------------------------------
 （Optional)
@@ -115,12 +117,13 @@ Top Projects:
 
 (add more lines if needed)
 
-Experiences:
+Experiences: Laboratory work across the Doudna Lab, Saltikov Lab, and independent research under the Southern California Academy of Sciences. 
 
 What are some fun/ social topics you would be interested in 
-conducting research on or creating data visualizations for?:
+conducting research on or creating data visualizations for?: Investment trends into biotechnology pre vs post pandemic. 
 
 Things that you would like us to know:
+Nothing so far, will update you.
 
 --------------------------------------------------------
 (Challenge Question)
